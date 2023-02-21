@@ -1,0 +1,30 @@
+Drill report for arm_panel.kicad_pcb
+Created on Thu Dec  1 16:55:09 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'arm_panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (305 holes)
+    T2  0.800mm  0.0315"  (40 holes)
+    T3  1.000mm  0.0394"  (40 holes)
+
+    Total plated holes count 385
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T4  0.500mm  0.0197"  (880 holes)
+    T5  0.800mm  0.0315"  (30 holes)  (with 30 slots)
+    T6  1.650mm  0.0650"  (30 holes)  (with 30 slots)
+    T7  3.200mm  0.1260"  (10 holes)
+
+    Total unplated holes count 950

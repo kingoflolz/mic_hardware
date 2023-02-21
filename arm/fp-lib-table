@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MSM261D4030H1CPM")(type "KiCad")(uri "${KIPRJMOD}/MSM261D4030H1CPM.pretty")(options "")(descr ""))
+)
